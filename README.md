@@ -1,1 +1,7 @@
-# readme-sample
+# サンプルプロジェクト
+
+## 環境構築
+```
+$ yarn
+$ yarn dev
+```
