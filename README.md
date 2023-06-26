@@ -259,13 +259,6 @@ https://icomoon.io/ を使用してアイコンのフォント化を行ってい
 
 <h2 id="git">Git 運用ルール</h2>
 
-##　z-indexについて
-
-variable.tsによる定義
---zindex-base: 0;
---zindex-header: 999;
---zindex-modal: calc(var(--zindex-header) + 1);
-
 ### ブランチについて
 
 基本的に devlop ブランチがテスト環境で main を本番環境にします。
