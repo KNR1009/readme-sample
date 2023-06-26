@@ -146,18 +146,6 @@ $ npm run test PrimaryButton.test.tsx
 
 pages配下をルーティングとして[bulletproof-react](https://github.com/alan2207/bulletproof-react)に基づいて設計されています。
 
-機能毎のディレクトリ構成です(2月17日更新)
-
-ディレクトリ | カテゴリー | 機能
--- | -- | --
-features/todo | サンプル | サンプル
-features/auth/signin | 認証 | ログイン
-features/auth/registration | 認証 | 新規登録
-features/home/reservation | ホーム | 予約
-features/manage/account | アカウント管理 | アカウント情報
-features/manage/creditCard | アカウント管理 | クレジットカード
-features/search/pharmacy | 検索 | 薬局
-
 ```
 mine-web/
     ├─.github         # プルリクテンプレートや自動デプロイの設定(基本いじらない)
