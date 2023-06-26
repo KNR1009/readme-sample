@@ -1,9 +1,4 @@
-# mine フロントエンド
-
-## コーディングルール・API結合
-
-- [コーディングルール](https://github.com/mine-co-ltd/mine-web/blob/main/DEVDESC.md)を一読した上で作業を開始してください
-- [API結合のやり方](https://github.com/mine-co-ltd/mine-web/blob/main/APIDOC.md)
+#　プロジェクト名
 
 ## 目次
 
@@ -16,6 +11,11 @@
 - [Git の運用について](#git)
 - [開発する上での参考記事](#kizi)
 
+
+## コーディングルール・API結合
+
+- [コーディングルール](https://github.com/mine-co-ltd/mine-web/blob/main/DEVDESC.md)を一読した上で作業を開始してください
+- [API結合のやり方](https://github.com/mine-co-ltd/mine-web/blob/main/APIDOC.md)
 
 <h2 id="system-configuration">システム構成</h2>
 
