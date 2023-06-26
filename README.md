@@ -147,7 +147,7 @@ $ npm run test PrimaryButton.test.tsx
 pages配下をルーティングとして[bulletproof-react](https://github.com/alan2207/bulletproof-react)に基づいて設計されています。
 
 ```
-mine-web/
+app/
     ├─.github         # プルリクテンプレートや自動デプロイの設定(基本いじらない)
     ├─public/
     |   ├─images/      # 画像を格納
